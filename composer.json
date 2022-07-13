@@ -1,6 +1,6 @@
 {
-	"name" : "moonlandsoft/yii2-phpexcel",
-	"description" : "Exporting PHP to Excel or Importing Excel to PHP",
+	"name" : "kesha-dev/yii2-phpexcel-fix",
+	"description" : "Exporting PHP to Excel or Importing Excel to PHP( fix php 8)",
 	"type" : "yii2-extension",
 	"keywords" : [
 		"yii2",
@@ -14,6 +14,10 @@
 	"authors" : [{
 			"name" : "Moh Khoirul Anam",
 			"email" : "moh.khoirul.anaam@gmail.com"
+		},
+		{
+			"name" : "Kesha",
+			"email" : "yourfriendkesha.sendmemes@gmail.com"
 		}
 	],
 	"require" : {
@@ -22,7 +26,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"moonland\\phpexcel\\" : ""
+			"kesha-dev\\phpexcel\\" : ""
 		}
 	}
 }
